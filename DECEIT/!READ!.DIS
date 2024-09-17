@@ -1,0 +1,48 @@
+Thank you for downloading "The Palace of Deceit".          version 1.2
+**requires EGA...***
+TO EXIT AT ANY TIME, HIT CTRL-BREAK!!!!!
+As you may already know, this game accepts a certain type of command set,
+all text inputted from the user. At the Command? prompt, if the direction is
+specified available, the user can move in that direction this way-
+	enter <place>-enters the specified area-"enter spring"
+	n-moves the player north, if you can't go north, an "I don't get it"
+	  is returned to the player.
+	s-moves the player south, if you can't go south, an "I don't get it"
+	  is returned to the player.
+	w-moves the player west, if you can't go west, an "I don't get it" is
+	  returned to the player.
+	e-"     "    "     east, "  "    "     " east, etc...
+	u-up. The player ascends a ladder or staircase, or can leave a hole or
+	  a lake.
+	d-down. The player goes down through a trap door, staircase, or ladder.
+Other commands
+	talk-Used by itself, just "talk", the player converses with a 
+	     character.
+	take <object>-Used for picking up an object, i.e.-take sword
+	push <whatever>-Has the player push something in the room.
+	pull <whatever>-Has the player pull something in the room.
+	look-The player observes his current surroundings, can be used
+	     ANYWHERE.
+	open <door>-opens something...
+	unlock <door> - or -unlock <door> with <key>-unlocks a door, you need
+	     a key!
+	use <object>-uses an object. i.e. "use oil and matches on torch" or 
+	   	     "use rope on bridge"...
+	cut <meat> with <whatever>-does what it says. Only used once in the 
+		game...
+	kill <dragon> with <whip>-kills the dragon (in the room) with the whip.
+	knock <on door>-be polite.
+	wear <crown>-wears what the player has that's wearable and specified.
+	touch <me>-touches whatever is specified.
+	give <gun> to <gnome>-gives what you want to who you want.
+	fill <tube> with <water>-Only used once in the game...
+	
+That's about all the commands. If you want to say something when asked by some-
+one, don't type "say <whatever>" just type "<whatever>". 
+            **********MAKE SURE CAPS LOCK IS OFF********
+To play, type RUNME.
+Enjoy!
+				-C.B.	
+
+
+				             
