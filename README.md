@@ -7,6 +7,10 @@ By Sonneveld
 This fixes the issue where the game would crash after taking the shield
 from the knight. There may be other issues but I haven't found them yet!
 
+You can hopefully find latest version at:
+
+    https://github.com/sonneveld/palace-of-deceit-patch
+
 
 ## Usage
 
@@ -29,3 +33,5 @@ completed last.
 8 spaces for tabs, file encoding: DOS CP 437
 
 Built with MASM 6. Other versions may work.
+
+Use BUILD.BAT to build.
