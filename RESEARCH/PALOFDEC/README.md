@@ -97,6 +97,8 @@ Anyway, the fix is to replace the "0" with an "o" and the game runs fine!
 
 ## References
 
+ * https://en.wikipedia.org/wiki/The_Palace_of_Deceit
+ * https://www.mobygames.com/game/69026/the-palace-of-deceit-the-secret-of-castle-lockemoer/
  * https://advgamer.blogspot.com/2021/04/missed-classic-palace-of-deceit-secret.html
  * https://twitter.com/doctorcdcs/status/1596600461599162374
  * https://www.youtube.com/watch?v=XyeQK65Zs7w
